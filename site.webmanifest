@@ -1,0 +1,23 @@
+   {
+    "name": "Coaching digitals",
+    "short_name": "Coaching digitals",
+    "icons": [
+        {
+            "src": "https://lh3.googleusercontent.com/-1gMOQ4GJzAg/ZUv5yez3K9I/AAAAAAAAA-Y/bJFCDjFQjPIuO2NWsmT4X_tXzqZEjmXUwCNcBGAsYHQ/s1600/1699477942924413-0.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/-UwVhTaXfz3w/ZUv5t1LRiuI/AAAAAAAAA-U/ECx-tr06wTA-MYa3FjglikFtsvVHzM5zACNcBGAsYHQ/s1600/1699477917604008-1.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.coaching-digitals.com"
+}
